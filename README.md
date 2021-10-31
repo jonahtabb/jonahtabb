@@ -1,6 +1,6 @@
 ### Thanks for stopping by! 😆
 
-- 🔭 I’m currently working on using the [Notion API] (https://developers.notion.com/) to create some cool React integrations.
+- 🔭 I’m currently working with the [Notion API] (https://developers.notion.com/) to create some cool React integrations.
 - 🧪 I’m currently learning TESTING!! Jest, Cypress, React Testing Library...
 - 🌐 I’m looking to collaborate on open source projects.
 - 🥕 Ask me about farming (especially vegetables).  I have a lot of experience with that too.
