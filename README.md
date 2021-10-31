@@ -1,4 +1,4 @@
-### My Name is Jonah Tabb
+### Thanks for stopping by! 😆
 
 - 🔭 I’m currently working on using the [Notion API] (https://developers.notion.com/) to create some cool React integrations.
 - 🧪 I’m currently learning TESTING!! Jest, Cypress, React Testing Library...
