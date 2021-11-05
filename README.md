@@ -6,10 +6,8 @@
 - 🥕 Ask me about farming (especially vegetables).  I have a lot of experience with that too.
 - 🐱‍🏍 Do you have a cool or interesting project you need a sidekick for? I am super interested in coding more, learning more, and doing more!
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonahtabb/)
 <p align="center>
-<a href="https://www.linkedin.com/in/jonahtabb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://jtabbdev.com/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Jonah%20Tabb-green" />
