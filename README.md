@@ -19,7 +19,7 @@
 ![BOOTSTRAP](		https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MATERIAL UI](			https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![POSEGESQL](			https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![POSEGESQL](			https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![HEROKU](			https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 ![STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahtabb&theme=blue-green)
