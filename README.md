@@ -7,12 +7,7 @@
 - 🐱‍🏍 Do you have a cool or interesting project you need a sidekick for? I am super interested in coding more, learning more, and doing more!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonahtabb/)
-<p align="center>
-
-<a href="https://jtabbdev.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Jonah%20Tabb-green" />
-</a>
-                                                                      </p>
+[<img src="https://img.shields.io/badge/Portfolio-Jonah%20Tabb-green">](https://jtabbdev.com/)
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
