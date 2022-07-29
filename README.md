@@ -1,10 +1,7 @@
 ### Thanks for stopping by! 😆
 
-- 🔭 I’m currently working with the [Notion API](https://developers.notion.com/) to create some cool React integrations.
-- 🧪 I’m currently learning TESTING!! Jest, Cypress, React Testing Library...
 - 🌐 I’m looking to collaborate on open source projects.
 - 🥕 Ask me about farming (especially vegetables).  I have a lot of experience with that too.
-- 🐱‍🏍 Do you have a cool or interesting project you need a sidekick for? I am super interested in coding more, learning more, and doing more!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jonahtabb/)
 [<img src="https://img.shields.io/badge/Portfolio-Jonah%20Tabb-green">](https://jtabbdev.com/)
